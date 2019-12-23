@@ -1,0 +1,30 @@
+{
+  "name": "@truecodemedia/linkedlist",
+  "version": "1.0.0",
+  "description": "Basic LinkedList implementaion ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrueCodeMedia/LinkedList.git"
+  },
+  "keywords": [
+    "linkedlist",
+    "data",
+    "structues",
+    "linkedlist",
+    "in",
+    "js",
+    "linkedlist",
+    "in",
+    "javascript"
+  ],
+  "author": "True code media",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TrueCodeMedia/LinkedList/issues"
+  },
+  "homepage": "https://github.com/TrueCodeMedia/LinkedList#readme"
+}
