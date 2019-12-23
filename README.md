@@ -10,3 +10,17 @@ import { LinkedList } from '@truecodemedia/linkedlist';
 
 let list = new LinkedList();
 ```
+
+# Available methods
+
++ `prepend`
++ `append`
++ `deleteFirst`
++ `deleteLast`
++ `addAtIndex`
++ `deleteAtIndex`
++ `deleteAtValue`
++ `contains`
++ `isEmpty`
++ `size`
++ `print`

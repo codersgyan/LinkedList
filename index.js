@@ -195,6 +195,6 @@ LinkedList.prototype.print = function() {
   }
   output += " ]";
 
-  return output;
+  console.log(output);
 };
 module.exports.LinkedList = LinkedList;
