@@ -1,6 +1,6 @@
 {
   "name": "@truecodemedia/linkedlist",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Basic LinkedList implementaion ",
   "main": "index.js",
   "scripts": {
